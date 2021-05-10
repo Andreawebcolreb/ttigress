@@ -1,0 +1,16 @@
+body{background-color:powderblue;}
+
+h1{color:black;
+text-align:center;
+font-size:5rem;
+text-decoration:underline;
+font-family: 'Pangolin', cursive;}
+
+p{color:black;
+width:80%;
+margin:0 auto;
+text-align:justify;}
+
+table{margin:4% auto;}
+
+img{border:4px solid #000000;}
